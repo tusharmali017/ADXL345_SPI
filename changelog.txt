@@ -1,0 +1,6 @@
+Version 1.0.0
+
+Completed-
+
+- This code implements interfacing between PIC24 Dev board(PIC24Fj1024GB610) and ADXL345 accelerometer using SPI communication Protocol.
+- Tested collected data and displayed on Tera Term virtual terminal.
